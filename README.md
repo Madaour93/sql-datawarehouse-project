@@ -27,4 +27,6 @@ Développer des analyses basées sur SQL pour fournir des inoformations détaill
 - **Tendances des ventes**
 
 Ces informations permettent aux parties prenantes d'obtenir des indicateurs commerciaux clès, ce qui permet une prise de décision stratégique.
+<img width="2014" height="1319" alt="Capture d'écran 2025-10-17 192852" src="https://github.com/user-attachments/assets/499abb0b-4217-45f6-ba5c-8b57cdfe29bc" />
+
 
